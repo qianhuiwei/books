@@ -1,6 +1,6 @@
 # books
 
-This is a simple React app that stores and shows a list of books. 
+This is a simple React app that stores and shows a list of books.<br />
 You can add, edit, and delete the books in this app.
 <img src="https://github.com/qianhuiwei/books/blob/main/pageDemo.png" width="900"/>
 
