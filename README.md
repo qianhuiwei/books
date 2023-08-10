@@ -5,7 +5,7 @@ You can add, edit, and delete the books in this app.
 <img src="https://github.com/qianhuiwei/books/blob/main/pageDemo.png" width="900"/>
 
 ## Features
-* Set up a API server [JSON Server](https://www.npmjs.com/package/json-server) to store book data.
+* Set up an API server [JSON Server](https://www.npmjs.com/package/json-server) to store books data.
 * Used [Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) extension to send HTTP requests and perform CRUD operation.
 * Used React hooks to perform tasks in different life cycle stage (useEffect) and share global data between components (useContext).
 * Created custom hooks to reduce code duplication.
