@@ -1,16 +1,24 @@
 {
   "books": [
     {
-      "title": "b whale",
+      "title": "Hobbits",
       "id": 3
     },
     {
-      "title": "hello",
+      "title": "Harry Potter",
       "id": 8
     },
     {
-      "title": "weeee",
+      "title": "Way of the Wolf",
       "id": 9
+    },
+    {
+      "title": "Decade of the Wolf",
+      "id": 10
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "id": 13
     }
   ]
 }

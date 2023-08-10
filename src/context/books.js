@@ -56,7 +56,7 @@ function Provider({ children }) {
         createBook,
         editBookById,
         deleteBookById
-    }
+    };
 
     return <BooksContext.Provider value={valueToShare}>
         {children}
