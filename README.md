@@ -2,7 +2,7 @@
 
 This is a simple React app that stores and shows a list of books. 
 You can add, edit, and delete the books in this app.
-<img src=[https://github.com/qianhuiwei/books/blob/main/pageDemo.png" width="900"/>
+<img src="https://github.com/qianhuiwei/books/blob/main/pageDemo.png" width="900"/>
 
 ## Features
 * Set up a API server [JSON Server](https://www.npmjs.com/package/json-server) to store book data.
